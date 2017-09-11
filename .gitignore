@@ -58,6 +58,9 @@ mp/src/utils/sapi51/
 # shader files
 *.tmp
 
-# Built stuff
+# Built stuff, mostly for bandwith reasons :c
 sp/game/bin/
 mp/game/bin/
+*.pdp
+*.sentinel
+*.lib
