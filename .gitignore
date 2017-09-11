@@ -58,3 +58,6 @@ mp/src/utils/sapi51/
 # shader files
 *.tmp
 
+# Built stuff
+sp/game/bin/
+mp/game/bin/
