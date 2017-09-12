@@ -59,8 +59,8 @@ mp/src/utils/sapi51/
 *.tmp
 
 # Built stuff, mostly for bandwith reasons :c
-sp/game/bin/
-mp/game/bin/
+sp/game/
+mp/game/
 *.pdp
 *.sentinel
 *.lib
